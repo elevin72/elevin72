@@ -5,7 +5,7 @@
 ## About Me
 
 
-Computer Science student with a passion for problem solving. Skilled at learning new technologies and concepts quickly, hard and dedicated worker.
+Software engineer with a passion for problem solving. Skilled at learning new technologies and concepts quickly, hard and dedicated worker.
 
 I deeply enjoy trying to understand puzzles and searching for solutions for them from an algorithmic and mathematical background.
 
