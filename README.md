@@ -13,6 +13,7 @@ I deeply enjoy trying to understand puzzles and searching for solutions for them
 ![](https://img.shields.io/badge/PYTHON-EXPERT-blue?style=flat-square&logo=python)
 ![](https://img.shields.io/badge/C%23-EXPERT-blue?style=flat-square&logo=csharp)
 ![](https://img.shields.io/badge/JAVA-EXPERT-blue?style=flat-square&logo=java)
+![](https://img.shields.io/badge/GO-VERY_GOOD-bf0a8f?style=flat-square&logo=go)
 ![](https://img.shields.io/badge/C%2B%2B-VERY_GOOD-purple?style=flat-square&logo=cplusplus)
 ![](https://img.shields.io/badge/SQL-VERY%20GOOD-purple?style=flat-square&logo=sql)
 ![](https://img.shields.io/badge/SHELL-0GOOD-purple?style=flat-square&logo=gnubash)
@@ -21,8 +22,7 @@ I deeply enjoy trying to understand puzzles and searching for solutions for them
 
 ![](https://img.shields.io/badge/JAVASCRIPT-PROFICIENT-bf0a8f?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/RUST-PROFICIENT-bf0a8f?style=flat-square&logo=rust)
-![](https://img.shields.io/badge/GO-PROFICIENT-bf0a8f?style=flat-square&logo=go)
-![](https://img.shields.io/badge/REACT-BEGINNER-bf0a8f?style=flat-square&logo=react)
+![](https://img.shields.io/badge/REACT-PROFICIENT-bf0a8f?style=flat-square&logo=react)
 
 ## Other Skills
 ![](https://img.shields.io/badge/LINUX-VERY%20GOOD-purple?style=flat-square&logo=archlinux)
